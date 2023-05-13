@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288115632126",
+    "project_id": "elred-todos",
+    "storage_bucket": "elred-todos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288115632126:android:c7d5f4ab8f3fd2ec50c2af",
+        "android_client_info": {
+          "package_name": "com.example.elredtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288115632126-q18rs41tql3lq6ssi6bdprjsm2cv9tar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmF-05Oqtbz2Y6_wz4RvdOKceIAebz8Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288115632126-q18rs41tql3lq6ssi6bdprjsm2cv9tar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
